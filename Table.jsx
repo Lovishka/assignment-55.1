@@ -1,5 +1,5 @@
 import React ,{ useState }  from "react";
-import TableRow from "./TableRow";
+import TableRow from "./tableRow";
 
 function Table()
 { 
